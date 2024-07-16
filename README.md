@@ -1,2 +1,2 @@
-# paruldhiman-github.io
+# paruldhiman.github.io
 Personal Portfolio
